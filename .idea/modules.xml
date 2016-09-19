@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/AndroidAssignmentTest.iml" filepath="$PROJECT_DIR$/AndroidAssignmentTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Android_Assignment_test_Home.iml" filepath="$PROJECT_DIR$/Android_Assignment_test_Home.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
